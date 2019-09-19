@@ -28,6 +28,7 @@ order: 50
 * [objective partner](https://www.objective-partner.de)
 * [percept ltd](https://www.percept.sk)
 * [Progress Management](http://www.pmconseil.com/)
+* [rit edv consulting](http://www.rit.at/)
 * [SBCG](https://www.sbcg.com.ua/)
 * SE38 IT-Engineering, Neuss, Germany
 * [Tricktresor](https://www.tricktresor.de)
